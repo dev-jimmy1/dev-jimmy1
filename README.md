@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **Advanced Flutter**.
 
-- 👨‍💻 All of my projects are available at **[My Repository](https://github.com/gemmy7?tab=repositories)**.
+- 👨‍💻 All of my projects are available at **[My Repository](https://github.com/dev-jimmy1?tab=repositories)**.
 
 <br>
 <div align="center">
@@ -35,7 +35,7 @@
 
 ## 📊 My Stats:
   <p align="center">
-<a href="https://github.com/gemmy7/github-readme-stats"><img alt="gemmy7's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gemmy7&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<a href="https://github.com/dev-jimmy1/github-readme-stats"><img alt="jimmy's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gemmy7&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 <br>
 
 
@@ -67,7 +67,7 @@
 
 ## 💜 Views and Followers:
 
-<a href="https://github.com/gemmy7/github-profile-views-counter">
+<a href="https://github.com/dev-jimmy1/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=gemmy7">
 </a>
 <a href="https://github.com/gemmy7?tab=followers"><img src="https://img.shields.io/github/followers/gemmy7?label=Followers&style=social" alt="GitHub Badge"></a>
