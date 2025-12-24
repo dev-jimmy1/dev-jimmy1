@@ -1,20 +1,4 @@
-<h1 align="center">Hi , I'm Alaa Jamal <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<p align="center">
-<br>
 
-
-## 🙋‍♂️ About Me:
-
-- 🔭 I’m currently working as a **Software Engineer 💻** | **Mobile Application Developer 📱** .
-
-- 🌱 I’m currently learning **Advanced Flutter**.
-
-- 👨‍💻 All of my projects are available at **[My Repository](https://github.com/dev-jimmy1?tab=repositories)**.
-
-<br>
-<div align="center">
-    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
-</div>
 <br>
 
 ## 🚀 Languages and Tools:
